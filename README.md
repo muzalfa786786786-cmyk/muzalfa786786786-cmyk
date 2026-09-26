@@ -317,24 +317,13 @@ https://github.com/muzalfa786786786-cmyk
 
 ---
 
-<!-- ======================= CONTRIBUTIONS ======================= -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/muzalfa786786786-cmyk/muzalfa786786786-cmyk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
 
 <!-- ======================= CERTIFICATES ======================= -->
 
 ## 📜 Certifications & Learning
 
 - 🤖 Google AI Professional Certificate
-- 🔐 Google Cybersecurity Certificate — In Progress
+- 🔐 Google Cybersecurity Certificate 
 - 💡 AI & Modern Web Development Learning
 - 🌐 Full-Stack Development
 
@@ -346,7 +335,7 @@ https://github.com/muzalfa786786786-cmyk
 
 **Superior University Lahore**
 
-Information Engineering
+Information Engineering Technology
 
 ---
 
@@ -374,7 +363,7 @@ Information Engineering
 
 🌐 **Portfolio:** https://my-portfolio-website-orpin-phi.vercel.app/
 
-💼 **LinkedIn:** Add your actual LinkedIn URL
+💼 **LinkedIn:** [Add your actual LinkedIn URL](https://www.linkedin.com/in/muzalfa-bibi-49ba203b2/)
 
 ---
 
@@ -382,7 +371,7 @@ Information Engineering
 
 ## 📄 Resume
 
-[View My Resume](YOUR_GOOGLE_DRIVE_RESUME_LINK)
+[View My Resume]([YOUR_GOOGLE_DRIVE_RESUME_LINK](https://drive.google.com/file/d/1-Mh1kZ8QsywpOdwFyrYRZtKI3MtMyGOB/view?usp=drivesdk))
 
 ---
 

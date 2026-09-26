@@ -249,15 +249,6 @@ https://github.com/muzalfa786786786-cmyk
 
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzalfa786786786-cmyk&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</p>
 
 ---
 

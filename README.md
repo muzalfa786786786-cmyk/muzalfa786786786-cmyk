@@ -23,7 +23,7 @@ Web Developer | AI & Full-Stack Development | Always Learning
 
 I'm **Muzalfa BiBi**, a Web Developer and Information Engineering student passionate about building practical web, AI, and full-stack applications.
 
-- 🎓 Studying Information Engineering
+- 🎓 Studying Information Engineering Technology
 - 💻 Interested in Web Development and Full-Stack Development
 - 🤖 Exploring AI-powered applications
 - 🌱 Currently improving my React, Django, Next.js and AI skills

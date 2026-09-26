@@ -362,7 +362,7 @@ Information Engineering Technology
 
 ## 📄 Resume
 
-[View My Resume]([YOUR_GOOGLE_DRIVE_RESUME_LINK](https://drive.google.com/file/d/1-Mh1kZ8QsywpOdwFyrYRZtKI3MtMyGOB/view?usp=drivesdk))
+[View My Resume][YOUR_GOOGLE_DRIVE_RESUME_LINK](https://drive.google.com/file/d/1-Mh1kZ8QsywpOdwFyrYRZtKI3MtMyGOB/view?usp=drivesdk)
 
 ---
 
